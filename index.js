@@ -1,4 +1,4 @@
-const tn = require("./tone.js")
+// Assuming tone.js is included in the HTML
 
 // Ensure the DOM is fully loaded
 window.addEventListener('DOMContentLoaded', (event) => {
