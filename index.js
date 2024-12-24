@@ -1,3 +1,4 @@
 const tn = require("./tone.js")
 
-tn.modalTs()
+const ff = tn.modalTs()
+console.log(ff)
